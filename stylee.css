@@ -1,0 +1,41 @@
+.body{
+    background-color: #121517;
+}
+
+.carousel img{
+    height: 600px;
+    object-fit: cover;
+}
+
+.carousel-caption h5{
+    font-size: 2rem;
+    text-shadow: 2px 2px 4px black;
+}
+
+.carousel-caption p{
+    font-size: 1.25rem;
+    text-shadow: 2px;
+}
+
+.container-gambar{
+    width: 3rem;
+    padding: 2rem 30rem;
+}
+
+.vacation-caption{
+    text-align: center;
+}
+
+.button-btn{
+    align-items: center;
+}
+
+.badge{
+    padding: 15px 10px;
+    top: -10px;
+    right: -10px;
+    position: absolute;
+}
+.bghitam{
+    background-color: #121517;
+}
